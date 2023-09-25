@@ -1,0 +1,37 @@
+body{
+    background: #3071e3;
+    width: 500px; margin: auto;
+}
+
+h1{color:#ff0;}
+
+#principal{background: #82a9ee;}
+
+.contenedor{
+    width: 498px;
+    border: 1px solid rgb(35, 2, 180);
+    margin-top: 15px;
+    display: flex;
+}
+
+.contenedor>div>img{
+    background: #777;
+    color: #fff;
+    width: 158px; 
+    height: 150px;
+    font-size: 2em;
+    margin: 4px;
+
+}
+
+.contenedor>div>p{
+    margin: 41px;
+    width: 84px; 
+    font-size: 15px;
+}
+
+#caja1{justify-content: center;}
+
+#caja1>div{
+    background: #a4c0f0;
+}
